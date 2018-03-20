@@ -248,6 +248,7 @@ void instrucciones()
   text("Para ello debes entrar en las puertas verdes",10,80);
   text("Se que tienes muchas dudas pero no hay tiempo para responder.",10,300);
   text("Te esperan muchos obstaculos, suerte.",10,320);
+  text("Cambia la pista de audio con las teclas 7,8,9,0",10,400);
   fill(random(255),random(255),random(255));
   text("Presiona Enter para continuar",280,500);
   
